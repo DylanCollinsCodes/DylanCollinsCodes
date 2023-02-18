@@ -1,4 +1,4 @@
-![alt text]([https://github.com/DylanCollinsCodes/[reponame]/blob/[branch]/image.jpg](https://github.com/DylanCollinsCodes/DylanCollinsCodes/blob/main/Banner.png))
+![alt text](https://github.com/DylanCollinsCodes/DylanCollinsCodes/blob/main/Banner.png)
 
 ### Hi there 👋
 
