@@ -1,6 +1,5 @@
 ![alt text](https://github.com/DylanCollinsCodes/DylanCollinsCodes/blob/main/Banner.png)
 
-### Hi there 👋
 
 <!--
 **DylanCollinsCodes/DylanCollinsCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
