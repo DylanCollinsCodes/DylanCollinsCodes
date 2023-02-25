@@ -28,5 +28,5 @@
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/badge/node.js%20support-8-brightgreen.svg"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=cbb148&style=plastic&logo=node"/>
 </p>
