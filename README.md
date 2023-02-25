@@ -15,7 +15,8 @@
 
 <h3 align="center">A passionate developer that loves bringing you solutions motivated by the power of technology.</h3>
 
-<p align="center">- 👨‍💻 All of my projects are available at https://dylancollins.netlify.app/</p>
+<p align="center">- 👨‍💻 All of my projects are available at</p>
+<div>**https://dylancollins.netlify.app/**</div>
 
 <p align="center">- 📫 How to reach me <a>biodcollins@gmail.com</a></p>
 
